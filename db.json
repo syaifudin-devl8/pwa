@@ -1,0 +1,29 @@
+{
+"product" : [
+{"id":1,"name":"Red-breasted cockatoo","category":"Fuscia"},
+{"id":2,"name":"Antelope, roan","category":"Orange"},
+{"id":3,"name":"Raccoon, common","category":"Aquamarine"},
+{"id":4,"name":"Black-throated cardinal","category":"Puce"},
+{"id":5,"name":"Mouflon","category":"Red"},
+{"id":6,"name":"Mara","category":"Blue"},
+{"id":7,"name":"Eagle, bateleur","category":"Puce"},
+{"id":8,"name":"Rattlesnake, horned","category":"Mauv"},
+{"id":9,"name":"Kalahari scrub robin","category":"Fuscia"},
+{"id":10,"name":"Gnu, brindled","category":"Goldenrod"},
+{"id":11,"name":"Gull, lava","category":"Khaki"},
+{"id":12,"name":"Porcupine, crested","category":"Green"},
+{"id":13,"name":"Heron, boat-billed","category":"Fuscia"},
+{"id":14,"name":"Skink, african","category":"Teal"},
+{"id":15,"name":"Galapagos hawk","category":"Purple"},
+{"id":16,"name":"African darter","category":"Purple"},
+{"id":17,"name":"Wild turkey","category":"Aquamarine"},
+{"id":18,"name":"Asian red fox","category":"Indigo"},
+{"id":19,"name":"Hawk, red-tailed","category":"Khaki"},
+{"id":20,"name":"Lark, horned","category":"Green"},
+{"id":21,"name":"Gulls (unidentified)","category":"Teal"},
+{"id":22,"name":"Paddy heron (unidentified)","category":"Khaki"},
+{"id":23,"name":"Galah","category":"Goldenrod"},
+{"id":24,"name":"Malagasy ground boa","category":"Blue"},
+{"id":25,"name":"Downy woodpecker","category":"Indigo"}
+]
+}
